@@ -5,3 +5,8 @@ The VST3 should work however some data isn't "professional" and inaccurate, I wi
 This is VERY early into development and likely had a TON of bugs still use at your own risk.
 
 Needs some work (and presets)
+
+
+I'm currently thinking about making a fruity plugin version of this (and likely may need to rename this to
+
+REPLICA.
