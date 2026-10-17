@@ -1,7 +1,7 @@
 // =============================================================================
 //  WaspPlugin.h  -  DSP + processor interface for the Wasp reconstruction
 //
-//  Waveform sets (the original had NO triangle):
+//  Waveform sets:
 //    OSC1 / OSC2 : Saw, Pulse (with PWM), Sine, Noise
 //    OSC3        : Saw, Pulse (50%)
 //    LFO1 / LFO2 : Saw, Square (50%), Sine, Noise
