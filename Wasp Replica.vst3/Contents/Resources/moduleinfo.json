@@ -1,0 +1,48 @@
+{
+  "Name": "Wasp Replica",
+  "Version": "0.1.0",
+  "Factory Info": {
+    "Vendor": "AlphaAudio",
+    "URL": "www.AlphaAudio.com",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB416C706857617370",
+      "Category": "Audio Module Class",
+      "Name": "Wasp Replica",
+      "Vendor": "AlphaAudio",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD416C706857617370",
+      "Category": "Component Controller Class",
+      "Name": "Wasp Replica",
+      "Vendor": "AlphaAudio",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
