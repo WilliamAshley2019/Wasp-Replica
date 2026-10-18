@@ -128,3 +128,5 @@ reserve
  
 
 
+BTW I ecountered this other project a right after this was first build tested and I am looking to try doing a fruity enabled version, this alternate project is a bridge for the original wasp dll
+https://github.com/mickeyperry/rewasp
